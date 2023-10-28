@@ -1,5 +1,5 @@
 ```
- FILENAME   : Task1.md
+ FILENAME   : readme.md
  PURPOSE    : TypeScript 1주차 Task1
  AUTHOR     : Bob
  CREATEDATE : 2023-10-24
